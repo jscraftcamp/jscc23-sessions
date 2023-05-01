@@ -1,6 +1,11 @@
-# jscc23-sessions
-The session notes repository for JSCC 2023.
+# JSCraftCamp 2023 - Session notes
 
-This repository will be filled later, as soon as the JSCC starts.
+We like to collect session notes for all sessions if possible. If you have slides for your session or took notes - please share them with all of us!
 
-Add notes for your sessions in here to make it available for others.
+_This repository will be filled later, as soon as the JSCC starts._
+
+Create a directory for the session, add a `README.md` into it and add a link to it in the table below. 
+
+Thank you for your support!
+
+[JSCC 2022 Session Notes](https://github.com/jscraftcamp/jscc22-sessions)

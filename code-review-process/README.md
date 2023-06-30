@@ -1,0 +1,36 @@
+# What is a good code review process?
+A round table discussion with a collection of ideas what has worked well for people in the past
+
+- Dedicated teams (code owners, supported by GitHub) for reviewing  
+- GitHub action to send reminders for reviewers after 24 hours
+	- Send messages to slack for reminding
+- Small PRs 
+	- Problem: PR chains
+- Checklists (that create engagement and maybe some controversy.
+- Standardized PR templates. Link bank to issue, etc.
+- How to engage people to really review?
+	- Have a "sparring partner" early, discussing architecture and the change
+- "Review first" process (possibly supported/enforced by tools like Jira)
+- What are the goals?
+	- Quality assurance
+		- Architecture
+		- Security
+		- Performance
+		- Consistency
+	- Knowledge sharing?
+- Communicate what kind of review you need (manual test vs just code reading)
+- Communicate what's expected of developers
+- If errors appear in staging, who is responsible - author, reviewer, or both?
+- Avoid blocking and drawn-out reviews
+	- Approve with comment (with comment that outlines optional change request)
+	- Checklist with definition of done in PR template. When all boxed are checked, you can approve, comments on the PR are for education and knowledge-sharing
+	- Put optional changes in italics
+	- Opinion or convention. Conventions should be documented / automated
+	- [Netlify blog article on how to comment pull requests](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/) - Dust, Pebble, Boulder. Standardized language
+- Appreciative comments
+- Communicate "negative" on a different channel before writing a comment 
+- Don't be a "Seagull Reviewer" (flying in, make loud noises, shit on everything, fly away)
+- Depreciating Humor in comments can be a problem if new people join who aren't in on the joke 
+- Communicate the value of code reviews to the whole company to get support for doing them. Don't talk badly about reviews 
+- Make review activity visible, to encourage people to do more
+- https://conventionalcomments.org/

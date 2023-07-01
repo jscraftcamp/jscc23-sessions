@@ -118,5 +118,6 @@ Your team members *will* emulate do. Don't act in ways you don't want your team 
 - books by Lara Hogan
 - books by Jürgen Appelo
   - particularly: Moving Motivators <https://management30.com/practice/moving-motivators/>
+- Rands Leadership Slack <https://randsinrepose.com/welcome-to-rands-leadership-slack/>
 
 

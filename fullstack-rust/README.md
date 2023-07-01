@@ -1,0 +1,35 @@
+# Full Stack Rust applications
+- Example: Pizza order app. 
+- Repo: [napoli-rust](https://github.com/git-commit/napoli-rust)
+- Achitecture: Rust backend with ORM, rust frontend compiled to webassembly) frontend and backend communicate via [gRPC](https://grpc.io/)
+- Live updates with [gRPC streaming](https://grpc.io/docs/what-is-grpc/core-concepts/#server-streaming-rpc)
+- gRPC
+	- [tonic](https://github.com/hyperium/tonic) library, generates client and server interfaces from .proto files (interface and data type definitions)
+	- Implementation and types are checked during compile 
+	- [gRPC is more (energy) efficient than REST+JSON](https://medium.com/sahibinden-technology/benchmarking-rest-vs-grpc-5d4b34360911)
+	- Tonic uses HTTP/2 for transport, but there is a HTTP/1 extension (that does long polling)
+- Frontend:
+	- [Yew](https://yew.rs/) is like React in Rust (virtual DOM and DOM diffing, JSX-like macros)
+	- But might not be the best choice
+	- [leptos](https://github.com/leptos-rs/leptos) follows the [solidJS](https://www.solidjs.com/) approach: in-DOM manipulation 
+	- tonic has a client library for yew
+	- components communicate (call callbacks) over the context object (with itself, or other component)
+	- can "hot reload" (reload recompiled WASM), but only the whole client-side application
+	- Tailwind compiled by node client (via [Trunk](https://trunkrs.dev/) build tool)
+- ORM:
+	- [SeaORM](https://www.sea-ql.org/SeaORM/) is used. It uses [SQLx](https://github.com/launchbadge/sqlx) (type-safe queries) under the hood
+	- [Diesel]() - is not async compatible
+- Conclusion
+	- Benefits: 
+		- Type Safety
+		- one language
+	- Drawbacks: 
+		- a bit clunky
+		- server needs to be recompiled on every change
+		- initial compile time a bit high. 
+		- Support for cross-compiling in Rust across Linux versions and architectures is complicated (glibc versions)
+- Rust Tips:
+	- `clone` is ok (to get around the borrow checking in cases where it's
+		too hard to figure out)
+	- Use `Box` to pass around references
+

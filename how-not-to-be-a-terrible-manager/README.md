@@ -37,7 +37,7 @@ Get everyone at the table:
 - Get ideas: Someone who works on A might have a good idea for B
 - Share the vision: Remind everyone of the big picture
 
-## Don't have siloes
+## Don't have silos
 
 If a single person works on something, what happens if they leave?
 

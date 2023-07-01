@@ -14,6 +14,7 @@ TODO: Table
 - [Type-Safe Full-Stack Applications with Rust](fullstack-rust/README.md)
 - [Dates, Timestamps, Timezones WTF?](timezones-wtf/README.md)
 - [Visual regression testing with Storybook and cypress](visual-regression/README.md)
+- [How not to be a terrible manager](how-not-to-be-a-terrible-manager/README.md)
 
 [JSCC 2022 Session Notes](https://github.com/jscraftcamp/jscc22-sessions)
 

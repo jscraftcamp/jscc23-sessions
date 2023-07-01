@@ -8,9 +8,9 @@ Create a directory for the session, add a `README.md` into it and add a link to 
 
 Thank you for your support!
 
-
 TODO: Table
 
+- [What is a good code review process?](code-review-process/README.md)
 - [Type-Safe Full-Stack Applications with Rust](fullstack-rust/README.md)
 
 [JSCC 2022 Session Notes](https://github.com/jscraftcamp/jscc22-sessions)

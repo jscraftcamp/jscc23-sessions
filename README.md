@@ -11,10 +11,14 @@ Thank you for your support!
 TODO: Table
 
 - [What is a good code review process?](code-review-process/README.md)
+- [Fresh](fresh/README.md)
 - [Type-Safe Full-Stack Applications with Rust](fullstack-rust/README.md)
+- [Green Impact](green-impact/README.md)
+- [How not to be a terrible manager](how-not-to-be-a-terrible-manager/README.md)
+- [Indie Web](indie-web/README.md)
+- [React 18 Suspense](react-18-Suspense-improve-code-structure/README.md)
 - [Dates, Timestamps, Timezones WTF?](timezones-wtf/README.md)
 - [Visual regression testing with Storybook and cypress](visual-regression/README.md)
-- [How not to be a terrible manager](how-not-to-be-a-terrible-manager/README.md)
 
 [JSCC 2022 Session Notes](https://github.com/jscraftcamp/jscc22-sessions)
 

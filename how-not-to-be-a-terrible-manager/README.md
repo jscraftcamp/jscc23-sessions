@@ -116,8 +116,8 @@ Your team members *will* emulate do. Don't act in ways you don't want your team 
 - Emily Anhalt – The 7 Traits of an Emotionally Fit Leader <https://www.youtube.com/watch?v=VEmWkdBco00>
 - The Manager's Path <https://en.wikipedia.org/wiki/Special:BookSources?isbn=978-1491973899>
 - books by Lara Hogan
-- books by Jürgen Appelo
-  - particularly: Moving Motivators <https://management30.com/practice/moving-motivators/>
+- books by Jurgen Appelo, particularly Management 3.0
+- Also Jurgen Appelo's Moving Motivators "game", which can be very useful to learn more about your co-workers and team mates, e.g. in one-on-ones: <https://management30.com/practice/moving-motivators/>
 - Rands Leadership Slack <https://randsinrepose.com/welcome-to-rands-leadership-slack/>
 
 

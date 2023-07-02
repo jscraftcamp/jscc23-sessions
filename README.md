@@ -19,6 +19,7 @@ TODO: Table
 - [React 18 Suspense](react-18-Suspense-improve-code-structure/README.md)
 - [Dates, Timestamps, Timezones WTF?](timezones-wtf/README.md)
 - [Visual regression testing with Storybook and cypress](visual-regression/README.md)
+- [How to build a discord bot and make it interact with a server and its users](discord-bot/readme.md)
 
 [JSCC 2022 Session Notes](https://github.com/jscraftcamp/jscc22-sessions)
 

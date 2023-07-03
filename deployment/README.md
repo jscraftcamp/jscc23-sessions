@@ -1,4 +1,4 @@
-# Deployment between the cloud and bare metal
+# Deployment between cloud and bare metal
 
 - Kubernetes is way easier to deploy and maintain than some years ago
 - For local development testing there is https://kind.sigs.k8s.io/docs/user/quick-start/

@@ -106,7 +106,7 @@ But not more work!
 
 ## Lead by example
 
-Your team members *will* emulate do. Don't act in ways you don't want your team to copy.
+Your team members *will* emulate what you do. Don't act in ways you don't want your team to copy.
 
 ---
 

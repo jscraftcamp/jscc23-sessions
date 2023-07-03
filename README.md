@@ -21,6 +21,7 @@ TODO: Table
 - [Visual regression testing with Storybook and cypress](visual-regression/README.md)
 - [How to build a discord bot and make it interact with a server and its users](discord-bot/readme.md)
 - [Deployment between Cloud and Bare Metal](deployment/README.md)
+- [Getting "more" agile](getting-more-agile/README.md)
 
 [JSCC 2022 Session Notes](https://github.com/jscraftcamp/jscc22-sessions)
 

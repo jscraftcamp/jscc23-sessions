@@ -16,6 +16,7 @@ TODO: Table
 - [Green Impact](green-impact/README.md)
 - [How not to be a terrible manager](how-not-to-be-a-terrible-manager/README.md)
 - [Indie Web](indie-web/README.md)
+- [Micro-Animations](micro-animations/README.md)
 - [React 18 Suspense](react-18-Suspense-improve-code-structure/README.md)
 - [Dates, Timestamps, Timezones WTF?](timezones-wtf/README.md)
 - [Visual regression testing with Storybook and cypress](visual-regression/README.md)

@@ -17,7 +17,7 @@ TODO: Table
 - [How not to be a terrible manager](how-not-to-be-a-terrible-manager/README.md)
 - [Indie Web](indie-web/README.md)
 - [Micro-Animations](micro-animations/README.md)
-- [React 18 Suspense](react-18-Suspense-improve-code-structure/README.md)
+- [React 18 Suspense](react-18-Suspense-improve-code-structure/Readme.md)
 - [Dates, Timestamps, Timezones WTF?](timezones-wtf/README.md)
 - [Visual regression testing with Storybook and cypress](visual-regression/README.md)
 - [How to build a discord bot and make it interact with a server and its users](discord-bot/readme.md)

@@ -23,6 +23,8 @@ TODO: Table
 - [How to build a discord bot and make it interact with a server and its users](discord-bot/readme.md)
 - [Deployment between Cloud and Bare Metal](deployment/README.md)
 - [Getting "more" agile](getting-more-agile/README.md)
+- [Functional Programming Is Js And Ts](functional-programming-in-js-and-ts/README.md)
+- [St. Pauli School of TDD](st-pauli-school-of-tdd/README.md)
 
 [JSCC 2022 Session Notes](https://github.com/jscraftcamp/jscc22-sessions)
 
